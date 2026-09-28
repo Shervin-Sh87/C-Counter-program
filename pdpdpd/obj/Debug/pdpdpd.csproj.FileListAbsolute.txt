@@ -1,0 +1,9 @@
+E:\Proje C#\vvvvv\pdpdpd\pdpdpd\bin\Debug\pdpdpd.exe.config
+E:\Proje C#\vvvvv\pdpdpd\pdpdpd\obj\Debug\pdpdpd.csprojResolveAssemblyReference.cache
+E:\Proje C#\vvvvv\pdpdpd\pdpdpd\obj\Debug\pdpdpd.Form1.resources
+E:\Proje C#\vvvvv\pdpdpd\pdpdpd\obj\Debug\pdpdpd.Properties.Resources.resources
+E:\Proje C#\vvvvv\pdpdpd\pdpdpd\obj\Debug\pdpdpd.csproj.GenerateResource.Cache
+E:\Proje C#\vvvvv\pdpdpd\pdpdpd\bin\Debug\pdpdpd.exe
+E:\Proje C#\vvvvv\pdpdpd\pdpdpd\bin\Debug\pdpdpd.pdb
+E:\Proje C#\vvvvv\pdpdpd\pdpdpd\obj\Debug\pdpdpd.exe
+E:\Proje C#\vvvvv\pdpdpd\pdpdpd\obj\Debug\pdpdpd.pdb
